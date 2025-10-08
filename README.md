@@ -62,6 +62,6 @@
 
 ###
 
-<p align="left">```<br>pip install numpy<br>pip install matplotlib<br>pip install scipy<br>```</p>
+<p align="left">`pip install numpy`<br>`pip install matplotlib`<br>`pip install scipy`</p>
 
 ###
