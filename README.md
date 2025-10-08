@@ -6,7 +6,7 @@
   <strong>Group members:</strong><br>
   Mastov Boris<br>
   Ulughbek Tursunqulov<br>
-  Ibrohim Saloxutdinov
+  Ibrohim Toxirov
 </p>
 
 ###
