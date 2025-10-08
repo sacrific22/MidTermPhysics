@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Group candidates:<br>Mastov Boris<br>Ulughbek Tursunqulov<br>Ibrohim Saloxutdinov</p>
+<p align="left">Group members:<br>Mastov Boris<br>Ulughbek Tursunqulov<br>Ibrohim Saloxutdinov</p>
 
 ###
 
