@@ -57,3 +57,19 @@
 </div>
 
 ###
+
+<h2 align="left">Before using code:</h2>
+
+###
+
+<p align="left">```<br>pip install numpy<br>pip install matplotlib<br>pip install scipy<br>```</p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sacrific22/sacrific22/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sacrific22/sacrific22/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sacrific22/sacrific22/output/pacman-contribution-graph.svg">
+</picture>
+
+###
