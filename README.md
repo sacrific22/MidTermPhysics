@@ -27,17 +27,6 @@
 
 <h2 align="left" style="color:#2196F3;">Our graphs</h2>
 
-<div align="center">
-  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/L_vs_t.png" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/energy_vs_t.png" />
-</div>
-
-<div align="center">
-  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/r_vs_t.png" />
-</div>
 
 <div align="center">
   <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/theta_vs_t.png" />
