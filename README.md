@@ -35,7 +35,7 @@
 <div align="center">
   <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/kepler_area_velocity.png" />
 </div>
-<h3> r vs t </h3>
+<h3> radial distance vs time </h3>
 <div align="center">
   <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/r_vs_t.png" />
 </div>
