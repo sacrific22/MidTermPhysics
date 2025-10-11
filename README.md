@@ -27,11 +27,19 @@
 
 <h2 align="left" style="color:#2196F3;">Our graphs</h2>
 
-
+<h3> Θ vs t </h3>
 <div align="center">
   <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/theta_vs_t.png" />
 </div>
-
+<h3>Verifiying Kepler's 2nd Law </h3>
+<div align="center">
+  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/kepler_area_velocity.png" />
+</div>
+<h3> r vs t </h3>
+<div align="center">
+  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/r_vs_t.png" />
+</div>
+<h3>Trajectory </h3>
 <div align="center">
   <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/trajectory.png" />
 </div>
