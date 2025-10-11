@@ -51,6 +51,5 @@
 <pre style="background-color:#1e1e1e; color:#00FF00; padding:10px; border-radius:8px;">
 pip install numpy
 pip install matplotlib
-pip install scipy
 </pre>
 
