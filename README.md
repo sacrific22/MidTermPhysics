@@ -45,7 +45,7 @@
 </div>
 <h3>Area velocity and Estimated orbit perdiod </h3>
 <div align="center">
-  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/AV_EOP.png" />
+  <img height="200" src="https://github.com/sacrific22/MidTermPhysics/blob/main/AV_EOP.jpg" />
 </div>
 
 ###
